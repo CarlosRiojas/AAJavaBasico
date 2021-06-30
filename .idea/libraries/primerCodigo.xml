@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="primerCodigo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/primerCodigo/out/artifacts/primerCodigo_jar/primerCodigo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
